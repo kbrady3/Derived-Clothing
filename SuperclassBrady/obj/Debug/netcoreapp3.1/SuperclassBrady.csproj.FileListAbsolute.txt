@@ -1,0 +1,22 @@
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.exe
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.deps.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.runtimeconfig.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.pdb
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.pdb
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.exe
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.deps.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.runtimeconfig.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\bin\Debug\netcoreapp3.1\SuperclassBrady.pdb
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\Module 2\SuperclassBrady\SuperclassBrady\obj\Debug\netcoreapp3.1\SuperclassBrady.pdb
